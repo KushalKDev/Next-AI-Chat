@@ -25,7 +25,7 @@ Check out the live application here: [https://your-app-name.vercel.app](https://
 
 ### 1. Clone the repository
 bash
-git clone [https://github.com/yourusername/chat-app.git](https://github.com/yourusername/chat-app.git)
+git clone [https://github.com/KushalKDev/Next-AI-Chat.git](https://github.com/KushalKDev/Next-AI-Chat.git)
 cd chat-app
 
 ### 2. Install dependencies
