@@ -4,6 +4,9 @@
 
 A sleek, responsive, and high-performance chat interface built with **Next.js**, **React**, and **Tailwind CSS**. This project features a clean UI for handling both standard and streaming chat responses.
 
+<img width="1872" height="1170" alt="image" src="https://github.com/user-attachments/assets/6b907c22-ee78-4e7c-b891-ef0404cded24" />
+
+
 ## 🔗 Live Demo
 Check out the live application here: [https://nextjs-ai-chat-sage.vercel.app/chat](https://nextjs-ai-chat-sage.vercel.app/chat)
 
