@@ -1,6 +1,6 @@
 # 💬 Modern Chat Interface
 
-[![Live Demo](https://img.shields.io/badge/demo-online-brightgreen.svg)](https://next-ai-chat-nu.vercel.app/chat)
+[![Live Demo](https://img.shields.io/badge/demo-online-brightgreen.svg)](https://nextjs-ai-chat-sage.vercel.app/chat)
 
 A sleek, responsive, and high-performance chat interface built with **Next.js**, **React**, and **Tailwind CSS**. This project features a clean UI for handling both standard and streaming chat responses.
 
